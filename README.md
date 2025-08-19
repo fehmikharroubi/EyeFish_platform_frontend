@@ -1,5 +1,4 @@
 
-````markdown
 # EyeFishPlatformFrontend
 
 This repository contains the **frontend application** for the EyeFish Platform, built with **Angular** using **standalone components**.  
